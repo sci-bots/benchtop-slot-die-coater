@@ -1,6 +1,8 @@
-# Benchtop Slot-die coater
+# Benchtop Slot-die Coater
 
 This is an attempt to build a simple benchtop slot-die coater based on a RepRap printer. The slot-die head is modelled on a head made by [FOM Technologies](https://www.fomtechnologies.com/).
+
+![Benchtop Slot-die Coater Concept](https://github.com/sci-bots/benchtop-slot-die-coater/blob/master/photos/concept.jpg)
 
 Some other relevant projects:
 
