@@ -4,6 +4,8 @@ This is an attempt to build a simple benchtop slot-die coater based on a RepRap 
 
 ![Benchtop Slot-die Coater Concept](https://github.com/sci-bots/benchtop-slot-die-coater/blob/master/photos/concept.jpg)
 
+[Here's a photo gallery](https://photos.app.goo.gl/xqK4QjGC5U5ToK6W7) with more images.
+
 Some other relevant projects:
 
 1. [Vak et al. Watkins. “3D Printer Based Slot-Die Coater as a Lab-to-Fab Translation Tool for Solution-Processed Solar Cells.” Advanced Energy Materials 5, no. 4 (2015): 1401539.](https://doi.org/10.1002/aenm.201401539)
